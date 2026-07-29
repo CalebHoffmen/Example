@@ -1,3 +1,3 @@
 # Example
 
-# for example nothing
+# Use for testing Git
